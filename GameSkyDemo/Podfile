@@ -1,0 +1,9 @@
+platform :ios, "8.0"
+use_frameworks!
+target 'GameSkyDemo' do
+    pod "MJExtension"
+    pod "MJRefresh"
+    pod "SDWebImage"
+    pod "MMDrawerController"
+    pod "SVProgressHUD"
+end
